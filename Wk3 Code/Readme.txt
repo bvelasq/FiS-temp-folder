@@ -4,6 +4,10 @@ Descriptor of the files and their purpose within the Wk3 Code folder
 - The original list of genes taken from the ICGC databse. Used as an input for 'interfacing_app_practice1.py'.
 https://dcc.icgc.org/
 
+'DT_H_E_N.txt'[OBSOLETE]
+-List of HGNC, Entrez and Ensemble IDs created using the Biomart tool that had to be re-downloaded for a proper format
+which my desktop home computer could use.
+
 'Gene stable ID Transcript stable ID HGNC symbol EntrezGene transcript name ID.txt'
 - List of ENSG, ENST and HGNC IDs. We had to use HDNC IDs (which DO correctly correlate to data in interactome DB) as the Biomart
 tool which gave the other IDs did not/ could not provide the correlating Entrez IDs
