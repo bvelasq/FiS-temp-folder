@@ -1,1 +1,3 @@
-So this weeks portion of code was created to mimic the process in the Wk3 folder, that being taking a list of genes within a patient and converting it to a list of interactions present, this time with a PDX file from the PDMR DB.
+So this weeks portion of code was created to mimic the process in the Wk3 folder, that being 
+taking a list of genes within a patient and converting it to a list of interactions present, this 
+time with a PDX file from the PDMR DB.
